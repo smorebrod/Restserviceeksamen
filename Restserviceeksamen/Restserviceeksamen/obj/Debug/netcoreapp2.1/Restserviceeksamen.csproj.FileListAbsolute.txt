@@ -1,0 +1,15 @@
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\bin\Debug\netcoreapp2.1\Restserviceeksamen.deps.json
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\bin\Debug\netcoreapp2.1\Restserviceeksamen.runtimeconfig.json
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\bin\Debug\netcoreapp2.1\Restserviceeksamen.runtimeconfig.dev.json
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\bin\Debug\netcoreapp2.1\Restserviceeksamen.dll
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\obj\Debug\netcoreapp2.1\Restserviceeksamen.csprojAssemblyReference.cache
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\obj\Debug\netcoreapp2.1\Restserviceeksamen.csproj.CoreCompileInputs.cache
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\obj\Debug\netcoreapp2.1\Restserviceeksamen.RazorAssemblyInfo.cache
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\obj\Debug\netcoreapp2.1\Restserviceeksamen.RazorAssemblyInfo.cs
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\obj\Debug\netcoreapp2.1\Restserviceeksamen.AssemblyInfoInputs.cache
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\obj\Debug\netcoreapp2.1\Restserviceeksamen.AssemblyInfo.cs
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\obj\Debug\netcoreapp2.1\Restserviceeksamen.RazorTargetAssemblyInfo.cache
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\bin\Debug\netcoreapp2.1\Restserviceeksamen.pdb
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\obj\Debug\netcoreapp2.1\Restserviceeksamen.dll
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\obj\Debug\netcoreapp2.1\Restserviceeksamen.pdb
+C:\Users\alexander\Desktop\rest\Restserviceeksamen\Restserviceeksamen\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
